@@ -40,7 +40,7 @@ $(document).ready(function () {
       data: {
         labels: ["Public repos", "public gists", "followers", "following"],
         datasets: [{
-          label: "My First dataset",
+          label: "Github Info",
           backgroundColor: 'rgb(255, 99, 132)',
           borderColor: 'rgb(255, 99, 132)',
           data: [...values]
